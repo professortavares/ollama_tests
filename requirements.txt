@@ -1,4 +1,5 @@
 jupyterlab==4.2.5
 langchain-ollama==0.2.0
 langchain==0.3.2
+langgraph==0.2.34
 ollama==0.3.3
