@@ -1,5 +1,11 @@
+faiss-cpu==1.8.0.post1
 jupyterlab==4.2.5
+langchain-community==0.3.1
+langchain-experimental==0.3.2
 langchain-ollama==0.2.0
 langchain==0.3.2
 langgraph==0.2.34
 ollama==0.3.3
+pdfplumber==0.11.4
+pypdf==5.0.1
+sentence-transformers==3.1.1
